@@ -1,84 +1,42 @@
-<p align="center">
-  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
-</p>
+# Hi there 👋, I am Krushnat Khavale
+
+[![Linkedin Badge](https://img.shields.io/badge/-krushnatkhawale-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/krushnat-khavale/)](https://www.linkedin.com/in/krushnat-khavale/)
+[![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/1446358/wosimosi)](https://stackoverflow.com/users/1446358/wosimosi)
+[![Gmail Badge](https://img.shields.io/badge/-krushnatkhavale@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:krushnatkhawale@gmail.com)](mailto:krushnatkhawale@gmail.com)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/krushnatkhawale) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/krushnatkhawale)
+
+- 🔭 **I’m currently working on server side Java technologies.**
+- 🌱 **I’m currently learning natural language processing.**
+
+![](https://komarev.com/ghpvc/?username=krushnatkhawale) [![wakatime for this page](https://wakatime.com/badge/user/c0c95904-b67a-4a62-bb09-8d5a5255068b/project/1c714a5d-d783-4d40-9897-409debbac3ab.svg)](https://wakatime.com/badge/user/c0c95904-b67a-4a62-bb09-8d5a5255068b/project/1c714a5d-d783-4d40-9897-409debbac3ab)
+
+Detailed time spent recently,
+<!--START_SECTION:waka-->
+
+```text
+Java     3 hrs 28 mins   ███████████████████████▓░   94.89 %
+Groovy   11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.11 %
+```
+
+<!--END_SECTION:waka-->
 
 
-<h2>नमस्ते (Namaste)🙏🏻, I'm Alok! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>IT Student at <a href="http://www.mmmut.ac.in">MMMUT 🎓 </a> | Web Developer at <a href="https://codebugged.com/"> Codebugged AI </a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+**Languages and Tools:**  
+<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
+<img height="30" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
+<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+<img height="30" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png">
+<img height="30" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png">
+<img height="30" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
+<img height="30" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gradle/gradle.png">
+<img height="30" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">
+<img height="30" src="https://github.com/Pythunder/explore/blob/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/raspberry-pi/raspberry-pi.png">
+<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
 
-I'm a IT student who is passionate about writing code, solving problems, Data Structures and Algorithms, and building software.
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/krushnatkhawale/github-readme-stats)*
 
-- 🔭 I’m currently a IT student at MMMUT.
-- 📚 I’m currently learning  backend web development using Django, React and PostgreSQL.
-- 👯 I’m looking for a software development internship. 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/alokpandey11/) [Gmail](mailto:alokpandey1131@gmail.com)
+![Krushnat's github stats](https://github-readme-stats.vercel.app/api?username=krushnatkhawale&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krushnatkhawale&layout=compact)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alokpandey11&label=Profile%20views&color=0e75b6&style=flat" alt="alokpandey11" /> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=krushnatkhawale&theme=monokai&margin-w=15&margin-h=15&&no-frame=true&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-
-## 🚀 Languages and Tools:
-
-- 💻 &nbsp;
-  ![C](https://img.shields.io/badge/-C-000000?style=for-the-badge&logo=C)
-  ![C++](https://img.shields.io/badge/-C++-000000?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=for-the-badge&logo=javascript)
-  ![SQL](https://img.shields.io/badge/-SQL-000000?style=for-the-badge&logo=MySQL)
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white) 
-  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-  ![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery&link=https://github.com/BRdhanani)
-  ![JSON](https://img.shields.io/badge/-json-02569B?style=flat&logo=json&link=https://github.com/BRdhanani)
-- 🛢 &nbsp;
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF)
-  ![GraphQL](https://img.shields.io/badge/-GraphQL-e535ab?style=flat&logo=graphql&logoColor=FFFFFF")
-  ![MySQL](https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF)
-  
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Heroku](https://img.shields.io/badge/-Heroku-gray?style=flat&logo=heroku&link=https://github.com/BRdhanani)
-- 🖥 &nbsp;
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-
-<br/>
-
-## 📊 My Github Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alokpandey11&show_icons=true&locale=en" alt="alokpandey11" /></p>
-
-
-
-
-
----
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-<p align="center">
-  <br/>
-  <a href="https://www.linkedin.com/in/alok-pandey-b313a5134/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">
-  </a>
-  
-  <a href="https://github.com/alokpandey11">
-    <img src="https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=Github&logoColor=white">  
-  </a>
-
-
-
-  <a href="https://www.facebook.com/Alokpandey0100">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white">  
-  </a>
- 
-  <a href="https://www.instagram.com/alokpandey_360">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white">
-  </a>
-
-  
-</p>
+![ThanksYou](https://img.shields.io/badge/🙏Thank_You_For_Spending_a_Moment_On_My_Profile,_Happy_Coding,_All_The_Very_Best-dodgerred.svg?style=for-the-badge)
