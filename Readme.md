@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-shivam7052-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shivam7052/)](https://www.linkedin.com/in/shivam7052/)
 [![Gmail Badge](https://img.shields.io/badge/-shivam7052128830@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shivam7052128830@gmail.com)](mailto:shivam7052128830@gmail.com)
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/krushnatkhawale) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/krushnatkhawale)
+[![Github](https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=Github&logoColor=white)](https://github.com/shivam7052) 
 
 - 🔭 **I’m currently a IT student at MMMUT Gorakhpur.**
 - 📚 **I’m currently learning  front-end web development using Reactjs.**
