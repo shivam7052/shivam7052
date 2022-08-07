@@ -4,7 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-shivam7052128830@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shivam7052128830@gmail.com)](mailto:shivam7052128830@gmail.com)
 [![Github](https://img.shields.io/badge/Github-%230A0A0A.svg?&style=flat-square&logo=Github&logoColor=white)](https://github.com/shivam7052) 
 
-- 🔭 **I’m currently a IT student at MMMUT Gorakhpur.**
+- 🔭 **I’m currently a B.Tech IT student at MMMUT Gorakhpur.**
 - 📚 **I’m currently learning  front-end web development using Reactjs.**
 - 👯 **I’m looking for a software development internship.**
 
